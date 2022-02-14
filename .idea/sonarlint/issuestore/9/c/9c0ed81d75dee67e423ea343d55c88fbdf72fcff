@@ -1,0 +1,7 @@
+
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8Ñ‰­®‡/
+\
+java:S1128"?Remove this unused import 'android.widget.SimpleCursorAdapter'.(Ç¸õñ8ÿ¼Ò®‡/
+€
+java:S3252*"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(©¹¿„şÿÿÿÿ8–¥Œ¯‡/
+X	java:S1251"<This block of commented-out lines of code should be removed.(è…èï8¡¯‡/
